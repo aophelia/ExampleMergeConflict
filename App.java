@@ -11,4 +11,8 @@ public class App
     {
         System.out.println("Method in master");
     }
+    public void methodInBranch()
+    {
+        System.out.println("Method in branch");
+    }
 }
